@@ -229,3 +229,13 @@ If you have any questions or need help, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for working parents**
+
+
+
+### Built as part of Women's Day Hackathon on 8th March 2025 : (PS:Ended up tied at 3rd place) 
+
+## 👥 Team Members
+
+- **Subhash Kashyap K H** - [github](https://github.com/Subhash-2910) 
+- **Chiranthan T R** - [github](https://github.com/moduloous) 
+- **Nikhil R** - [github](https://github.com/Nikhil-r-projects)
